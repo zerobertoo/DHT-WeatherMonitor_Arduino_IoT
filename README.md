@@ -1,6 +1,6 @@
 # Código Fonte do projeto de IoT - 2024/02
 <h3> Alunos: </h3>
-<a href="https://www.linkedin.com/in/jose-roberto-oliveira-2002/" target="_blank" style="text-decoration:none"> José Roberto Oliveira </a> <br/>
+<a href="https://www.linkedin.com/in/joserobertoo/" target="_blank" style="text-decoration:none"> José Roberto Oliveira </a> <br/>
 <a href="https://www.linkedin.com/in/thiagoguimadev/" target="_blank" style="text-decoration:none"> Thiago Guimarães </a> <br/>
 
 ### Link para o Projeto
